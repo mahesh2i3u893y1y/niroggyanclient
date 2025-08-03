@@ -1,5 +1,4 @@
 import { Award, Calendar, Clock, User } from "lucide-react";
-import React from "react";
 
 const Stats = () => {
   return (

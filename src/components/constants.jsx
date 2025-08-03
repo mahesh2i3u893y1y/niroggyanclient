@@ -1,3 +1,3 @@
 export const APP_VARIABLE = {
-  SERVER: "http://localhost:3000"
+  SERVER: "https://niroggyanserver-xogh.onrender.com"
 };
